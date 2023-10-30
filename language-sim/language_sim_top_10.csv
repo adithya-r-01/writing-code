@@ -1,0 +1,46 @@
+ISO_1,LangName_1,ISO_2,LangName_2,Similarity,Robustness
+arb,Standard Arabic,ben,Bengali,0.295,High
+arb,Standard Arabic,cmn,Mandarin Chinese,0.037,High
+arb,Standard Arabic,eng,English,0.189,High
+arb,Standard Arabic,fra,French,0.272,High
+arb,Standard Arabic,hin,Hindi,0.434,High
+arb,Standard Arabic,ind,Indonesian,0.577,High
+arb,Standard Arabic,por,Portuguese,0.363,High
+arb,Standard Arabic,rus,Russian,0.231,High
+arb,Standard Arabic,spa,Spanish,0.284,High
+ben,Bengali,cmn,Mandarin Chinese,0.048,High
+ben,Bengali,eng,English,1.025,High
+ben,Bengali,fra,French,0.849,High
+ben,Bengali,hin,Hindi,3.237,High
+ben,Bengali,ind,Indonesian,0.678,High
+ben,Bengali,por,Portuguese,1.147,High
+ben,Bengali,rus,Russian,0.642,High
+ben,Bengali,spa,Spanish,0.829,High
+cmn,Mandarin Chinese,eng,English,0.051,High
+cmn,Mandarin Chinese,fra,French,0.039,High
+cmn,Mandarin Chinese,hin,Hindi,0.101,High
+cmn,Mandarin Chinese,ind,Indonesian,0.065,High
+cmn,Mandarin Chinese,por,Portuguese,0.057,High
+cmn,Mandarin Chinese,rus,Russian,0.063,High
+cmn,Mandarin Chinese,spa,Spanish,0.042,High
+eng,English,fra,French,9.665,High
+eng,English,hin,Hindi,0.629,High
+eng,English,ind,Indonesian,1.674,High
+eng,English,por,Portuguese,7.944,High
+eng,English,rus,Russian,2.025,High
+eng,English,spa,Spanish,7.907,High
+fra,French,hin,Hindi,0.562,High
+fra,French,ind,Indonesian,1.791,High
+fra,French,por,Portuguese,11.979,High
+fra,French,rus,Russian,2.435,High
+fra,French,spa,Spanish,11.196,High
+hin,Hindi,ind,Indonesian,0.55,High
+hin,Hindi,por,Portuguese,0.847,High
+hin,Hindi,rus,Russian,0.616,High
+hin,Hindi,spa,Spanish,0.587,High
+ind,Indonesian,por,Portuguese,2.045,High
+ind,Indonesian,rus,Russian,0.986,High
+ind,Indonesian,spa,Spanish,1.707,High
+por,Portuguese,rus,Russian,2.92,High
+por,Portuguese,spa,Spanish,17.414,High
+rus,Russian,spa,Spanish,2.252,High
